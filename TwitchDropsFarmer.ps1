@@ -11,7 +11,9 @@ $StreamList = @(
     [PSCustomObject]@{ Name = "MP5A4 (2)";           Url = "https://www.twitch.tv/LEDOO" },
     [PSCustomObject]@{ Name = "Assault Rifle (2)";   Url = "https://www.twitch.tv/alexdieci" },
     [PSCustomObject]@{ Name = "Garage Door";         Url = "https://www.twitch.tv/s3kox" },
-    [PSCustomObject]@{ Name = "Rocket Launcher";     Url = "https://www.twitch.tv/zbb" }
+    [PSCustomObject]@{ Name = "Rocket Launcher";     Url = "https://www.twitch.tv/zbb" },
+    [PSCustomObject]@{ Name = "Hunting Bow"};        Url = "https://www.twitch.tv/a1dan8992" },
+    [PSCustomObject]@{ Name = "Hunting Bow (2)"};    Url = "https://www.twitch.tv/toonyx" }
 )
 
 # Function to kill browser processes
@@ -69,3 +71,4 @@ foreach ($stream in $StreamList) {
 # Final Cleanup
 Close-Browsers
 Write-Host "All streams processed. Happy farming!" -ForegroundColor Green
+
