@@ -82,13 +82,13 @@ Using, modifying, and uploading adapted versions (including for other games) is 
 Hi! I'm t_gow, an indie developer and Twitch enthusiast. I love automating workflows and creating tools for gamers and streamers. I focus on Windows-based scripts and community-friendly projects that are easy to use and customize.
 🔗 Links
 
-    GitHub: https://github.com/t_gow
+    GitHub: https://github.com/T-G0W
 
     Discord: t_gow
 
-    Website / Portfolio: https://t-gow.dev
+    Website / Portfolio: Coming Soon
 
-    Buy Me a Coffee: https://www.buymeacoffee.com/t_gow
+    Buy Me a Coffee: https://www.buymeacoffee.com/tgow
 
 📜 License
 
