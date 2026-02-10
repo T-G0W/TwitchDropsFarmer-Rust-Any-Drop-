@@ -73,8 +73,10 @@ Using, modifying, and uploading adapted versions (including for other games) is 
 
 ☕ Support
 
-If you enjoy this project and want to support my work, you can do so via Buy Me a Coffee. Every coffee helps me keep developing and updating the Twitch Drops Farmer!
-<!-- Buy Me a Coffee Button --> <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="tgow" data-color="#5F7FFF" data-emoji="🥛" data-font="Inter" data-text="Buy me a White Monster" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00"></script>
+## ☕ Support Me
+
+If you enjoy this project, you can support me here: [🥛 Buy me a White Monster](https://www.buymeacoffee.com/50kgkidtgo7)
+
 👤 About Me
 
 Hi! I'm t_gow, an indie developer and Twitch enthusiast. I love automating workflows and creating tools for gamers and streamers. I focus on Windows-based scripts and community-friendly projects that are easy to use and customize.
