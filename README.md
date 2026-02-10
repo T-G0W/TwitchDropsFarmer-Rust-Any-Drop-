@@ -75,7 +75,7 @@ Using, modifying, and uploading adapted versions (including for other games) is 
 
 ## ☕ Support Me
 
-[![Buy me a White Monster](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/50kgkidtgo7)
+[![Buy me a White Monster](https://cdn.buymeacoffee.com/buttons/v2/default-blue.png)](https://www.buymeacoffee.com/tgow)
 
 👤 About Me
 
