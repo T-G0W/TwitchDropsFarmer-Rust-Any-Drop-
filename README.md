@@ -1,8 +1,8 @@
-# Twitch Drops Farmer (Windows)
+# Twitch Drops Farmer (Windows | PowerShell)
 
-A lightweight and customizable **Twitch Drops Farmer**, originally developed for **Rust Twitch Drops**, but **adaptable to almost any Twitch Drops campaign** with minimal adjustments.
+A lightweight and customizable **Twitch Drops Farmer**, written in **PowerShell**, originally developed for **Rust Twitch Drops**, but **adaptable to almost any Twitch Drops campaign** with small adjustments.
 
-The script is designed to automate drop farming on Twitch and is intended for **Windows systems**.
+The script automates Twitch Drop farming and is designed specifically for **Windows systems**.
 
 > 📌 **Update Notice**  
 > This repository will be updated whenever **new Rust Twitch Drops** are released.  
@@ -13,9 +13,10 @@ The script is designed to automate drop farming on Twitch and is intended for **
 ## 🚀 Features
 
 - Automatic farming of Twitch Drops  
+- Written in **PowerShell (`.ps1`)**
 - Optimized for **Rust Drops**, but adaptable to other games  
 - Easy to customize for different drop campaigns  
-- Simple execution via **Command Prompt (CMD)**  
+- Simple execution via **PowerShell / CMD**  
 - Designed specifically for **Windows**
 
 ---
@@ -23,16 +24,16 @@ The script is designed to automate drop farming on Twitch and is intended for **
 ## 🖥️ System Requirements
 
 - **Windows 10 / 11**
-- A Twitch account
+- Twitch account
 - Linked game account (e.g. Steam for Rust)
-- Command Prompt (CMD)
+- **PowerShell 5.1 or newer**
 - Stable internet connection
 
 ---
 
-## ▶️ Getting Started (CMD)
+## ▶️ Getting Started (PowerShell)
 
-1. Clone or download this repository:
+1. Clone or download the repository:
    ```bash
    git clone <REPOSITORY-URL>
 
@@ -40,17 +41,19 @@ The script is designed to automate drop farming on Twitch and is intended for **
 
     cd Twitch-Drops-Farmer
 
+    (Optional) Allow script execution for the current session:
+
+    Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
     Start the script:
 
-    start.bat
-
-    (or run the main script file, depending on the project structure)
+    .\\TwitchDropsFarmer.ps1
 
     Log in to Twitch when prompted and let the script farm Drops automatically 🎉
 
 🔧 Using This Script for Other Twitch Drops
 
-This project can be adapted for almost any game that supports Twitch Drops.
+This PowerShell script can be adapted for almost any game that supports Twitch Drops.
 
 Depending on the target game or campaign, you may need to adjust:
 
@@ -60,12 +63,12 @@ Depending on the target game or campaign, you may need to adjust:
 
     Game- or event-specific parameters
 
-Reusing, modifying, and uploading adapted versions (including for other games) is explicitly allowed, as long as the license conditions are followed.
+Using, modifying, and uploading adapted versions (including for other games) is explicitly allowed, as long as the license conditions are followed.
 🧾 Updates & Support
 
-    Regular updates for new Rust Twitch Drops
+    This repository is updated for new Rust Twitch Drops
 
-    If updates are missing or something breaks:
+    If an update is missing or something is broken:
     Discord: t_gow
 
 📜 License
@@ -90,3 +93,5 @@ Created by t_gow
 Discord: t_gow
 
 If this project helps you, feel free to leave a ⭐ on GitHub — it’s always appreciated!
+
+This project is not affiliated with Twitch, Amazon, or Facepunch Studios.
